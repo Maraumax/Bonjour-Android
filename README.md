@@ -21,3 +21,5 @@ Les fonctionnalités de l'application sont les suivantes :
 * [ ] Recherche via Google Image
 
 ## Dépendances
+
+* [PhotoView](https://github.com/chrisbanes/PhotoView)
