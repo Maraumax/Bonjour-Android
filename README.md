@@ -19,6 +19,7 @@ Les fonctionnalités de l'application sont les suivantes :
 * [ ] Signalements
 * [ ] MPs
 * [ ] Recherche via Google Image
+* [ ] Support des gifs
 
 ## Dépendances
 
