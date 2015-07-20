@@ -24,3 +24,4 @@ Les fonctionnalités de l'application sont les suivantes :
 ## Dépendances
 
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
+* [Picasso](https://github.com/square/picasso)
