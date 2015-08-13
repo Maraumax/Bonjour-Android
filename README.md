@@ -25,3 +25,4 @@ Les fonctionnalités de l'application sont les suivantes :
 
 * [PhotoView](https://github.com/chrisbanes/PhotoView)
 * [Picasso](https://github.com/square/picasso)
+* [Android Async Http](https://github.com/loopj/android-async-http)
